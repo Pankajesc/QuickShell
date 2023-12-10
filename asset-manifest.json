@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickShell/static/css/main.aa85a564.css",
+    "main.js": "/QuickShell/static/js/main.4bbf6ae5.js",
+    "index.html": "/QuickShell/index.html",
+    "main.aa85a564.css.map": "/QuickShell/static/css/main.aa85a564.css.map",
+    "main.4bbf6ae5.js.map": "/QuickShell/static/js/main.4bbf6ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa85a564.css",
+    "static/js/main.4bbf6ae5.js"
+  ]
+}
